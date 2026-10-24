@@ -11,11 +11,34 @@
  "signed": false,
  "note": "UNSIGNED - no update offered (no real egg yet); ed25519 after GO + Face ID",
  "previousUpdateMethod": "update badge + Mac relay feed (REggKit)",
- "items": [],
+ "items": [
+  {
+   "hosts": [
+    "ybot"
+   ],
+   "id": "shot-sense-rbot-ios",
+   "kind": "egg",
+   "minHostVersion": "2.1.9",
+   "name": "shot-sense-rbot-ios-2.1.9-s2.rzl",
+   "platforms": [
+    "ios",
+    "ipados"
+   ],
+   "sha256": "5f80c6391ccc02103c840913f2d15dcddda5c7a46f1724e2827102769fb8e50f",
+   "size": 4307,
+   "title": "shot-sense rbot-ios 2.1.9-s2 · SHOT/SSHOT/SEE relay via BOTBRIDGE :4873/shot-sense · signed e5833fdfbbfe (ЯCASKET Face ID) pending Face ID",
+   "url": "eggs/shot-sense-rbot-ios-2.1.9-s2.rzl",
+   "version": "2.1.9-s2",
+   "ed25519": "JO+Cu8iu0Jw8B5pDuJelUGrIBGCezJ5OMWoi7iyYnmwRKnZ7zBXT6Wb7nG2yJEZxFSBc+GqCdkKANE9qmm89Cw==",
+   "keyId": "e5833fdfbbfe",
+   "signed": true
+  }
+ ],
  "mirrors": [
   "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/rbot/ios/appcast.json",
   "https://rizaleon.github.io/RZL-EGG/rbot/ios/appcast.json",
   "http://rizals-macbook-neo.local:8341/rbot/ios/appcast.json"
  ],
- "updated": "2026-10-24T13:05:00-06:00"
+ "updated": "2026-10-24T14:35:48-06:00",
+ "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24)"
 }

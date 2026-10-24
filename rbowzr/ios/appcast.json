@@ -11,11 +11,34 @@
  "signed": false,
  "note": "UNSIGNED - no update offered (no real egg yet); ed25519 after GO + Face ID",
  "previousUpdateMethod": "update badge + relay; old combined appcast",
- "items": [],
+ "items": [
+  {
+   "hosts": [
+    "rbowzr"
+   ],
+   "id": "shot-sense-rbowzr-ios",
+   "kind": "egg",
+   "minHostVersion": "2.1.9",
+   "name": "shot-sense-rbowzr-ios-2.1.9-s2.rzl",
+   "platforms": [
+    "ios",
+    "ipados"
+   ],
+   "sha256": "b39d9b9b5749a9c1bcd72d963d53277a37f8babccfb368e355574a2fc221db64",
+   "size": 4264,
+   "title": "shot-sense rbowzr-ios 2.1.9-s2 · SHOT/SSHOT/SEE relay via BOTBRIDGE :4873/shot-sense · signed e5833fdfbbfe (ЯCASKET Face ID) pending Face ID",
+   "url": "eggs/shot-sense-rbowzr-ios-2.1.9-s2.rzl",
+   "version": "2.1.9-s2",
+   "ed25519": "UbWXlKvR/ecO4ShHj759/Z73VT6VLas1323M9n8zGMKmDgTNhVj3CZWizjp5OJfYVkmFHgf9BsGhjva2GQ/+Dg==",
+   "keyId": "e5833fdfbbfe",
+   "signed": true
+  }
+ ],
  "mirrors": [
   "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/rbowzr/ios/appcast.json",
   "https://rizaleon.github.io/RZL-EGG/rbowzr/ios/appcast.json",
   "http://rizals-macbook-neo.local:8341/rbowzr/ios/appcast.json"
  ],
- "updated": "2026-10-24T13:05:00-06:00"
+ "updated": "2026-10-24T14:35:48-06:00",
+ "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24)"
 }
