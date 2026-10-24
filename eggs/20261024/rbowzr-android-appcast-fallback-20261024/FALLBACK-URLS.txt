@@ -1,0 +1,13 @@
+ordered appcast URLs for ЯBOWZR (android) — try in order, first valid JSON wins
+https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/rbowzr/android/appcast.json
+https://rizaleon.github.io/RZL-EGG/rbowzr/android/appcast.json
+https://drive.google.com/uc?export=download&id=1JW6hgaQoLFZ7e2uXqjNWoSErS7RTpWWu
+https://drive.google.com/uc?export=download&id=11ULc2raIGm1lsh5IZrIlUTl0e5IeWuOE
+https://rizal.pw/rbowzr/android/appcast.json
+https://rizal.info/rbowzr/android/appcast.json
+http://rizals-macbook-neo.local:8341/rbowzr/android/appcast.json
+Info.plist: add key AppcastURLs (array) with the above. Previous method: updateFeed rizal.info/rbowzr/android/updates/index.json
+NOT rebuilt/signed/installed. ЯBEE · ЯID-0004-ZYZ0 · 2026-10-24 13:05 MT
+https://rizaleon.github.io/rizal.pw/rbowzr/android/appcast.json
+https://rizaleon.github.io/rizal.info/rbowzr/android/appcast.json
+NEO-PUBLIC https://rizals-macbook-neo.taile78ba8.ts.net/feed/rbowzr/android/appcast.json

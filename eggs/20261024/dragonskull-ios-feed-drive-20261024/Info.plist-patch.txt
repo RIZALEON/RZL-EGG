@@ -1,0 +1,14 @@
+- <key>DSSelfUpdateManifestURL</key><string>https://raw.githubusercontent.com/rizalward/RZL-EGG/main/dragon-skull/ios-web/appcast.json</string>
++ <key>DSSelfUpdateManifestURL</key><string>https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/appcast.json</string>
++ <key>DSSelfUpdateManifestURLs</key><array>
++   <string>https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/appcast.json</string>
++   <string>https://rizaleon.github.io/RZL-EGG/dragon-skull/ios-web/appcast.json</string>
++   <string>https://drive.usercontent.google.com/download?id=1aZOICtP6B6LXW-bLaryINNC-nC_C6bJK&amp;export=download&amp;confirm=t</string>
++   <string>https://drive.usercontent.google.com/download?id=1Jurza6g3aDwsikjHnLq7XE4K6R3C4Cz2&amp;export=download&amp;confirm=t</string>
+	<string>https://rizal.pw/dragon-skull/ios-web/appcast.json</string>
+	<string>https://rizal.info/dragon-skull/ios-web/appcast.json</string>
+	<string>https://rizaleon.github.io/rizal.pw/dragon-skull/ios-web/appcast.json</string>
+	<string>https://rizaleon.github.io/rizal.info/dragon-skull/ios-web/appcast.json</string>
++   <string>http://rizals-macbook-neo.local:8341/dragon-skull/ios-web/appcast.json</string>
++ </array>
+App code: try each URL in order, first HTTP 200 + valid JSON (+ ed25519 once signed) wins. No source for self-update found outside Build/ → code change is part of the rebuild (GO + Face ID).

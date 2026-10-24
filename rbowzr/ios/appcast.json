@@ -32,6 +32,33 @@
    "ed25519": "UbWXlKvR/ecO4ShHj759/Z73VT6VLas1323M9n8zGMKmDgTNhVj3CZWizjp5OJfYVkmFHgf9BsGhjva2GQ/+Dg==",
    "keyId": "e5833fdfbbfe",
    "signed": true
+  },
+  {
+   "ed25519": "",
+   "hosts": [
+    "ybot",
+    "rbowzr",
+    "dragon-skull",
+    "dragoskul",
+    "ghostdragon",
+    "rscribe",
+    "thundr-float",
+    "linux"
+   ],
+   "id": "thundr-hawk-coredevice",
+   "kind": "egg",
+   "minHostVersion": "2.1.9",
+   "name": "thundr-hawk-coredevice-2.1.9-hawk.20261024.rzl.zip",
+   "platforms": [
+    "macos",
+    "ios",
+    "linux"
+   ],
+   "sha256": "8bb603b8c53b4d45a527699e0288fa8547a8eabe8972d9e679100842b34b8470",
+   "size": 3277,
+   "title": "ThundR HAWK CoreDevice cache + disk watch · STATUS bar hook · UNSIGNED",
+   "url": "eggs/thundr-hawk-coredevice-2.1.9-hawk.20261024.rzl.zip",
+   "version": "2.1.9-hawk.20261024"
   }
  ],
  "mirrors": [

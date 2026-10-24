@@ -1,0 +1,13 @@
+ordered appcast URLs for DRAGON SKULL (android) — try in order, first valid JSON wins
+https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/android/appcast.json
+https://rizaleon.github.io/RZL-EGG/dragon-skull/android/appcast.json
+https://drive.google.com/uc?export=download&id=1AphexBsXTC3ZGknneaXIZiSYt4zd2LS-
+https://drive.google.com/uc?export=download&id=1hNLqDt5l2_nxbRNK_JnPXdb43E8Twl4W
+https://rizal.pw/dragon-skull/android/appcast.json
+https://rizal.info/dragon-skull/android/appcast.json
+http://rizals-macbook-neo.local:8341/dragon-skull/android/appcast.json
+Info.plist: add key AppcastURLs (array) with the above. Previous method: APK on Drive, no feed known
+NOT rebuilt/signed/installed. ЯBEE · ЯID-0004-ZYZ0 · 2026-10-24 13:05 MT
+https://rizaleon.github.io/rizal.pw/dragon-skull/android/appcast.json
+https://rizaleon.github.io/rizal.info/dragon-skull/android/appcast.json
+NEO-PUBLIC https://rizals-macbook-neo.taile78ba8.ts.net/feed/dragon-skull/android/appcast.json

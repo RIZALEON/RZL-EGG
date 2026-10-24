@@ -1,0 +1,25 @@
+{
+  "schema": "rlab-appcast.v1",
+  "keyId": "e5833fdfbbfe",
+  "eggs": [
+    {
+      "hosts": [
+        "dragonskull"
+      ],
+      "id": "shot-sense-dragonskull-ios",
+      "kind": "egg",
+      "minHostVersion": "2.1.9",
+      "name": "shot-sense-dragonskull-ios-2.1.9-s2.rzl",
+      "platforms": [
+        "ios",
+        "ipados"
+      ],
+      "sha256": "ea5f36dbf87d2377a5b5f78acb9ef0f53651911b9621f3784113d9ad1eefa55e",
+      "size": 4287,
+      "title": "shot-sense dragonskull-ios 2.1.9-s2 · SHOT/SSHOT/SEE relay via BOTBRIDGE :4873/shot-sense · signed e5833fdfbbfe (ЯCASKET Face ID) pending Face ID",
+      "url": "eggs/shot-sense-dragonskull-ios-2.1.9-s2.rzl",
+      "version": "2.1.9-s2",
+      "ed25519": "iOnSesVkgQcpInYXGLZLxcyakm2L2+KC4myX4oluLFxcNpng89QcKoJ1VmBUqPBw5d5ebAf/Rh5bBAtJBDotAw=="
+    }
+  ]
+}

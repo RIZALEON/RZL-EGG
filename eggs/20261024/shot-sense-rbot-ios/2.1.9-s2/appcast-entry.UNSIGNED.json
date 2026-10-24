@@ -1,0 +1,24 @@
+{
+ "schema": "rlab-appcast.v1",
+ "keyId": "e5833fdfbbfe",
+ "eggs": [
+  {
+   "hosts": [
+    "ybot"
+   ],
+   "id": "shot-sense-rbot-ios",
+   "kind": "egg",
+   "minHostVersion": "2.1.9",
+   "name": "shot-sense-rbot-ios-2.1.9-s2.rzl",
+   "platforms": [
+    "ios",
+    "ipados"
+   ],
+   "sha256": "5f80c6391ccc02103c840913f2d15dcddda5c7a46f1724e2827102769fb8e50f",
+   "size": 4307,
+   "title": "shot-sense rbot-ios 2.1.9-s2 · SHOT/SSHOT/SEE relay via BOTBRIDGE :4873/shot-sense · UNSIGNED pending Face ID",
+   "url": "eggs/shot-sense-rbot-ios-2.1.9-s2.rzl",
+   "version": "2.1.9-s2"
+  }
+ ]
+}

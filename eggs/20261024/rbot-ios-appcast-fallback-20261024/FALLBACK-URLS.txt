@@ -1,0 +1,13 @@
+ordered appcast URLs for ЯBOT (ios) — try in order, first valid JSON wins
+https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/rbot/ios/appcast.json
+https://rizaleon.github.io/RZL-EGG/rbot/ios/appcast.json
+https://drive.google.com/uc?export=download&id=1u_q8HS-csEGVzapCKP2BpVy1ncXrsXAS
+https://drive.google.com/uc?export=download&id=1xf6Z2_gpQllK-3ieZkgAmyMA7hOZ4ySS
+https://rizal.pw/rbot/ios/appcast.json
+https://rizal.info/rbot/ios/appcast.json
+http://rizals-macbook-neo.local:8341/rbot/ios/appcast.json
+Info.plist: add key AppcastURLs (array) with the above. Previous method: update badge + Mac relay feed (REggKit)
+NOT rebuilt/signed/installed. ЯBEE · ЯID-0004-ZYZ0 · 2026-10-24 13:05 MT
+https://rizaleon.github.io/rizal.pw/rbot/ios/appcast.json
+https://rizaleon.github.io/rizal.info/rbot/ios/appcast.json
+NEO-PUBLIC https://rizals-macbook-neo.taile78ba8.ts.net/feed/rbot/ios/appcast.json

@@ -1,0 +1,13 @@
+ordered appcast URLs for THUNDR-FLOAT (macos) — try in order, first valid JSON wins
+https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/thundr-float/macos/appcast.json
+https://rizaleon.github.io/RZL-EGG/thundr-float/macos/appcast.json
+https://drive.google.com/uc?export=download&id=1ISYvxZ5kqrByVo-PV7xtIxrrRx2aPgFb
+https://drive.google.com/uc?export=download&id=1vgQ0rjnWd0pgWEaBgoTjsK6YLxJj76pk
+https://rizal.pw/thundr-float/macos/appcast.json
+https://rizal.info/thundr-float/macos/appcast.json
+http://rizals-macbook-neo.local:8341/thundr-float/macos/appcast.json
+Info.plist: add key AppcastURLs (array) with the above. Previous method: none found (selfheal + egg-addon folder)
+NOT rebuilt/signed/installed. ЯBEE · ЯID-0004-ZYZ0 · 2026-10-24 13:05 MT
+https://rizaleon.github.io/rizal.pw/thundr-float/macos/appcast.json
+https://rizaleon.github.io/rizal.info/thundr-float/macos/appcast.json
+NEO-PUBLIC https://rizals-macbook-neo.taile78ba8.ts.net/feed/thundr-float/macos/appcast.json

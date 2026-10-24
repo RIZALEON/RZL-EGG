@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict><key>Label</key><string>io.rlab.thundr-hawk</string>
+<key>ProgramArguments</key><array><string>/bin/zsh</string><string>/Users/rizal/ЯLAB/RFORGE/SERVICES/THUNDR-HAWK/thundr_hawk.sh</string></array>
+<key>StartInterval</key><integer>3600</integer><key>RunAtLoad</key><true/>
+<key>StandardOutPath</key><string>/Users/rizal/ЯLAB/RFORGE/SERVICES/THUNDR-HAWK/hawk.out</string><key>StandardErrorPath</key><string>/Users/rizal/ЯLAB/RFORGE/SERVICES/THUNDR-HAWK/hawk.err</string></dict></plist>

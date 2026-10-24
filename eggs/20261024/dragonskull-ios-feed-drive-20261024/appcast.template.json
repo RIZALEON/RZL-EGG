@@ -1,0 +1,1 @@
+{"product":"DRAGON SKULL iOS web","feed":"drive","note":"UNSIGNED TEMPLATE - fill ids/sha256, sign after GO","items":[{"version":"1.0.1.1","url":"https://drive.usercontent.google.com/download?id=<WEB_BUNDLE_FILE_ID>&export=download&confirm=t","sha256":"<SHA256>","size":0,"ed25519":"<SIGN_AFTER_GO>"}]}

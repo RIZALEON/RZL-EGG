@@ -1,0 +1,13 @@
+ordered appcast URLs for DRAGONBRIDGE (macos) — try in order, first valid JSON wins
+https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragonbridge/macos/appcast.json
+https://rizaleon.github.io/RZL-EGG/dragonbridge/macos/appcast.json
+https://drive.google.com/uc?export=download&id=1Z_kgs2HyI3nlTcVR-SOdCNjpcKai_e_u
+https://drive.google.com/uc?export=download&id=1XvovAy_cumhlBzgjNM5KlGZLgbvLTeka
+https://rizal.pw/dragonbridge/macos/appcast.json
+https://rizal.info/dragonbridge/macos/appcast.json
+http://rizals-macbook-neo.local:8341/dragonbridge/macos/appcast.json
+Info.plist: add key AppcastURLs (array) with the above. Previous method: Safari web app (page reload)
+NOT rebuilt/signed/installed. ЯBEE · ЯID-0004-ZYZ0 · 2026-10-24 13:05 MT
+https://rizaleon.github.io/rizal.pw/dragonbridge/macos/appcast.json
+https://rizaleon.github.io/rizal.info/dragonbridge/macos/appcast.json
+NEO-PUBLIC https://rizals-macbook-neo.taile78ba8.ts.net/feed/dragonbridge/macos/appcast.json

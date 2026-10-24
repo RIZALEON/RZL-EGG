@@ -1,0 +1,13 @@
+ordered appcast URLs for ЯSCRIBE (macos) — try in order, first valid JSON wins
+https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/rscribe/macos/appcast.json
+https://rizaleon.github.io/RZL-EGG/rscribe/macos/appcast.json
+https://drive.google.com/uc?export=download&id=1nEfJHAzhCsuN2gtvA_z323EZPrrkqVdM
+https://drive.google.com/uc?export=download&id=1qmZTd0FQMdAIvTmWH8kTtdfKWFJakiHE
+https://rizal.pw/rscribe/macos/appcast.json
+https://rizal.info/rscribe/macos/appcast.json
+http://rizals-macbook-neo.local:8341/rscribe/macos/appcast.json
+Info.plist: add key AppcastURLs (array) with the above. Previous method: none found in Info.plist
+NOT rebuilt/signed/installed. ЯBEE · ЯID-0004-ZYZ0 · 2026-10-24 13:05 MT
+https://rizaleon.github.io/rizal.pw/rscribe/macos/appcast.json
+https://rizaleon.github.io/rizal.info/rscribe/macos/appcast.json
+NEO-PUBLIC https://rizals-macbook-neo.taile78ba8.ts.net/feed/rscribe/macos/appcast.json
