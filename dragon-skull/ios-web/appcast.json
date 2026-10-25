@@ -30,29 +30,30 @@
    "ed25519": "iOnSesVkgQcpInYXGLZLxcyakm2L2+KC4myX4oluLFxcNpng89QcKoJ1VmBUqPBw5d5ebAf/Rh5bBAtJBDotAw==",
    "keyId": "e5833fdfbbfe",
    "signed": true
+  },
+  {
+   "hosts": [
+    "dragonskull"
+   ],
+   "id": "social-autoreply-dragonskull-ios",
+   "kind": "egg",
+   "name": "social-autoreply-dragonskull-ios-1.0.4-8-sar1.rzl",
+   "platforms": [
+    "ios",
+    "ipados"
+   ],
+   "sha256": "cc608e158a2bd1fdac9b048a9a06575886e9dba2baae81d63fc24f39bebb850b",
+   "size": 34117,
+   "title": "Social auto-reply (RDRAGON + Cryptosocial) · Decider GO 2026-10-25 · ed25519 pending Face ID",
+   "url": "eggs/social-autoreply-dragonskull-ios-1.0.4-8-sar1.rzl",
+   "version": "1.0.4-8-sar1",
+   "signed": false
   }
  ],
  "mirrors": [
   "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/appcast.json",
   "https://rizaleon.github.io/RZL-EGG/dragon-skull/ios-web/appcast.json"
  ],
- "updated": "2026-10-25T09:22:00-06:00",
- "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24)",
- "keyId": "e5833fdfbbfe",
- "apps": {
-  "ios-web": {
-   "id": "info.rizal.dragonskull",
-   "kind": "web",
-   "name": "dragonskull-ios-web-1.0.1.1.zip",
-   "platforms": [
-    "ios"
-   ],
-   "sha256": "29126b296a6f48a4b6398da3ee2db262af2a87ff2efee101bf0d7fb1ff5aeb52",
-   "size": 6619364,
-   "title": "DRAGON SKULL iOS web 1.0.1.1 · crypto Social side panel (Neo t59u–t63u) · signed e5833fdfbbfe (ЯCASKET Face ID 2026-10-25 t69u)",
-   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-ios-web-1.0.1.1.zip",
-   "version": "1.0.1.1",
-   "ed25519": "USS2oJwj/vlOfvlnepxydErt3Y9l4L69M4fTgjHPSecG7V0o9+OmvwdNdoa8bK5OmEMhVGm3HjTjym5U4tO7Ag=="
-  }
- }
+ "updated": "2026-10-25T10:10:00-06:00",
+ "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24)"
 }
