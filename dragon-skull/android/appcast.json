@@ -24,10 +24,12 @@
    ],
    "sha256": "67f92a5ab32b20e70071a07ba0a642775186cb6696c3d5bdcb4dfe8cfa81ef6d",
    "size": 34133,
-   "title": "Social auto-reply (RDRAGON + Cryptosocial) · Decider GO 2026-10-25 · ed25519 pending Face ID",
+   "title": "Social auto-reply (RDRAGON + Cryptosocial) · Decider GO 2026-10-25 · signed e5833fdfbbfe (ЯCASKET Face ID)",
    "url": "eggs/social-autoreply-dragonskull-android-1.0.4-8-sar1.rzl",
    "version": "1.0.4-8-sar1",
-   "signed": false
+   "signed": true,
+   "ed25519": "mckZjrBXUI3F/eE1QSKjitvh6RCtBJN6+HRQ9HOOpYs6eS9l3uyvSeoD3xxElrtOt4IdtqNajOZJVcZ7nlf6DA==",
+   "keyId": "e5833fdfbbfe"
   }
  ],
  "mirrors": [
@@ -35,5 +37,5 @@
   "https://rizaleon.github.io/RZL-EGG/dragon-skull/android/appcast.json",
   "http://rizals-macbook-neo.local:8341/dragon-skull/android/appcast.json"
  ],
- "updated": "2026-10-25T10:10:00-06:00"
+ "updated": "2026-10-25T16:16:00Z"
 }
