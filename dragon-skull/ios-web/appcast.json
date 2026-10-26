@@ -76,6 +76,23 @@
   "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/appcast.json",
   "https://rizaleon.github.io/RZL-EGG/dragon-skull/ios-web/appcast.json"
  ],
- "updated": "2026-10-25T16:16:00Z",
- "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24) · RDRAGON 1.0.4 (8) IPA signed ed25519 e5833fdfbbfe Ghost 255"
+ "updated": "2026-10-25T21:20:00-06:00",
+ "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24) · RDRAGON 1.0.4 (8) IPA signed ed25519 e5833fdfbbfe Ghost 255 · ios-web 1.0.1.2 signed ed25519 e5833fdfbbfe Ghost 271",
+ "keyId": "e5833fdfbbfe",
+ "apps": {
+  "ios-web": {
+   "id": "info.rizal.dragonskull",
+   "kind": "web",
+   "name": "dragonskull-web-1.0.1.2.zip",
+   "platforms": [
+    "ios"
+   ],
+   "sha256": "1fd31f2cd5108d2c29815c7e6a38ccb880e202f8e2ec0aff698dbc11c8ea7f72",
+   "size": 275250,
+   "title": "DRAGON SKULL iOS web 1.0.1.2 · RDRAGON up2 (RKRYPT 0.1.0.2, threads, GHOSTMACHINE, /audio help, :commands, MAKE MUSIC LIKE, audio drop) · signed e5833fdfbbfe (ЯCASKET Face ID, Ghost 271)",
+   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.1.2.zip",
+   "version": "1.0.1.2",
+   "ed25519": "jEyFUwMDvuZRupdGkjldRhIwzGkAQk1koWH8tgXq6rkVjfCZL/dT5OkJArxlMrCmTqQsfdFiUw2y9MUpElJJBw=="
+  }
+ }
 }
