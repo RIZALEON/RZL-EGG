@@ -76,23 +76,76 @@
   "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/appcast.json",
   "https://rizaleon.github.io/RZL-EGG/dragon-skull/ios-web/appcast.json"
  ],
- "updated": "2026-10-25T21:20:00-06:00",
- "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24) · RDRAGON 1.0.4 (8) IPA signed ed25519 e5833fdfbbfe Ghost 255 · ios-web 1.0.1.2 signed ed25519 e5833fdfbbfe Ghost 271",
+ "updated": "2026-10-27T00:20:00-06:00",
+ "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24) · RDRAGON 1.0.4 (8) IPA signed ed25519 e5833fdfbbfe Ghost 255 · ios-web 1.0.1.2 signed ed25519 e5833fdfbbfe Ghost 271 · ios-web 1.0.1.4 signed ed25519 e5833fdfbbfe Ghost 273 · ios-web 1.0.1.5 signed ed25519 e5833fdfbbfe Ghost 274 (ЯCASKET Face ID nonce 9374886f, 2026-10-27)",
  "keyId": "e5833fdfbbfe",
  "apps": {
   "ios-web": {
    "id": "info.rizal.dragonskull",
    "kind": "web",
-   "name": "dragonskull-web-1.0.1.2.zip",
+   "name": "dragonskull-web-1.0.1.5.zip",
+   "sha256": "daf1cc0d6a70798182b49b8a306d64bfcada8e5d3ac510caf9979dbcdc732a61",
+   "size": 639543,
+   "version": "1.0.1.5",
+   "ed25519": "/Hjdvd4wK14OquaZVoS58/fcWq0D18yRM2I5rUJiH7o3mqeb9y1gsRnLGPp/Mle9fdYoKSQ4aaKKFKGyCaJuCA==",
    "platforms": [
     "ios"
    ],
-   "sha256": "1fd31f2cd5108d2c29815c7e6a38ccb880e202f8e2ec0aff698dbc11c8ea7f72",
-   "size": 275250,
-   "title": "DRAGON SKULL iOS web 1.0.1.2 · RDRAGON up2 (RKRYPT 0.1.0.2, threads, GHOSTMACHINE, /audio help, :commands, MAKE MUSIC LIKE, audio drop) · signed e5833fdfbbfe (ЯCASKET Face ID, Ghost 271)",
-   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.1.2.zip",
-   "version": "1.0.1.2",
-   "ed25519": "jEyFUwMDvuZRupdGkjldRhIwzGkAQk1koWH8tgXq6rkVjfCZL/dT5OkJArxlMrCmTqQsfdFiUw2y9MUpElJJBw=="
-  }
+   "keyId": "e5833fdfbbfe",
+   "signed": true,
+   "ghostSeq": 274,
+   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.1.5.zip",
+   "title": "DRAGON SKULL iOS web 1.0.1.5 · 1.0.1.4 + RDRAGON iOS ЯWALLET unified · signed e5833fdfbbfe (ЯCASKET Face ID, Ghost 274)"
+  },
+  "ios-web-history": [
+   {
+    "id": "info.rizal.dragonskull",
+    "kind": "web",
+    "name": "dragonskull-web-1.0.1.4.zip",
+    "sha256": "d8f496849d41accf0ac90f58f0975ef5c9fbd76b4170f8c7a417b5a7c8c80711",
+    "size": 433623,
+    "version": "1.0.1.4",
+    "ed25519": "hlUPpyKKtFsciT4Gh8i1P0Q/yILT9fyYCr4cq66IA9CkUWXCZDN4DHLPUp9eQvKcVfjD49jwJjlyN+Q/A0AlCQ==",
+    "platforms": [
+     "ios"
+    ],
+    "keyId": "e5833fdfbbfe",
+    "signed": true,
+    "ghostSeq": 273,
+    "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.1.4.zip",
+    "title": "DRAGON SKULL iOS web 1.0.1.4 · GHOSTMACHINE CryptoSocial live articles (rizal.pw PR #10) · supersedes unsigned 1.0.1.3 · signed e5833fdfbbfe (ЯCASKET Face ID, Ghost 273)",
+    "supersededBy": "1.0.1.5"
+   },
+   {
+    "id": "info.rizal.dragonskull",
+    "kind": "web",
+    "name": "dragonskull-web-1.0.1.2.zip",
+    "platforms": [
+     "ios"
+    ],
+    "sha256": "1fd31f2cd5108d2c29815c7e6a38ccb880e202f8e2ec0aff698dbc11c8ea7f72",
+    "size": 275250,
+    "title": "DRAGON SKULL iOS web 1.0.1.2 · RDRAGON up2 (RKRYPT 0.1.0.2, threads, GHOSTMACHINE, /audio help, :commands, MAKE MUSIC LIKE, audio drop) · signed e5833fdfbbfe (ЯCASKET Face ID, Ghost 271)",
+    "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.1.2.zip",
+    "version": "1.0.1.2",
+    "ed25519": "jEyFUwMDvuZRupdGkjldRhIwzGkAQk1koWH8tgXq6rkVjfCZL/dT5OkJArxlMrCmTqQsfdFiUw2y9MUpElJJBw==",
+    "supersededBy": "1.0.1.4"
+   },
+   {
+    "version": "1.0.1.3",
+    "signed": false,
+    "published": false,
+    "supersededBy": "1.0.1.4",
+    "note": "unsigned staging build, never offered; superseded"
+   }
+  ]
+ },
+ "superseded": [
+  "1.0.1.3",
+  "1.0.1.4",
+  "1.0.1.2"
+ ],
+ "latest": {
+  "ios-web": "1.0.1.5"
  }
 }
