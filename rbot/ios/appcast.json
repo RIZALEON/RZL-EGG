@@ -59,6 +59,26 @@
    "title": "ThundR HAWK CoreDevice cache + disk watch · STATUS bar hook · UNSIGNED",
    "url": "eggs/thundr-hawk-coredevice-2.1.9-hawk.20261024.rzl.zip",
    "version": "2.1.9-hawk.20261024"
+  },
+  {
+   "kind": "egg",
+   "id": "thundr-float",
+   "version": "1.0.0",
+   "name": "thundr-float-1.0.0-ybot.rzl.zip",
+   "size": 2387663,
+   "sha256": "b313c90ea054992bf5d0b31f94d1e34093572458c5f7e0c6addb15a1a2795e03",
+   "url": "eggs/thundr-float-1.0.0-ybot.rzl.zip",
+   "hosts": [
+    "ybot"
+   ],
+   "platforms": [
+    "ios",
+    "ipados"
+   ],
+   "title": "thundr-float 1.0.0 · ybot · ThundR floating cryptobot (exact THUNDR-FLOAT float UI) · data-only · signed e5833fdfbbfe (ЯCASKET Face ID)",
+   "ed25519": "UMaCmnLuyGJQee2CtbkqUhrNqGHpgMT31AG2OSZBOwbXGiXcxPCd2ISz5Gnz6ZnrtxuB5cHhxPEdCnTfpsxKAg==",
+   "keyId": "e5833fdfbbfe",
+   "signed": true
   }
  ],
  "mirrors": [
