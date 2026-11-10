@@ -3,7 +3,6 @@
  "id": "dragon-skull-ios",
  "feed": "RIZALEON multi-mirror",
  "signed": false,
- "note": "UNSIGNED - current build only, no new egg offered; ed25519 added via RDRAGON/SIGNING-METHOD/sign.sh after GO + Face ID",
  "app": {
   "version": "1.0.4",
   "build": "8",
@@ -76,28 +75,46 @@
   "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/appcast.json",
   "https://rizaleon.github.io/RZL-EGG/dragon-skull/ios-web/appcast.json"
  ],
- "updated": "2026-10-27T00:20:00-06:00",
- "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24) · RDRAGON 1.0.4 (8) IPA signed ed25519 e5833fdfbbfe Ghost 255 · ios-web 1.0.1.2 signed ed25519 e5833fdfbbfe Ghost 271 · ios-web 1.0.1.4 signed ed25519 e5833fdfbbfe Ghost 273 · ios-web 1.0.1.5 signed ed25519 e5833fdfbbfe Ghost 274 (ЯCASKET Face ID nonce 9374886f, 2026-10-27)",
+ "updated": "2026-11-09T17:16:00-07:00",
+ "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24) · RDRAGON 1.0.4 (8) IPA signed ed25519 e5833fdfbbfe Ghost 255 · ios-web 1.0.1.2 signed ed25519 e5833fdfbbfe Ghost 271 · ios-web 1.0.1.4 signed ed25519 e5833fdfbbfe Ghost 273 · ios-web 1.0.1.5 signed ed25519 e5833fdfbbfe Ghost 274 (ЯCASKET Face ID nonce 9374886f, 2026-10-27) · ios-web 1.0.4.26 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID, 2026-11-09)",
  "keyId": "e5833fdfbbfe",
  "apps": {
   "ios-web": {
+   "ed25519": "xaxmr4kIZoe71kPlo01AJvvk5Itul2ZYnP3YXyPExQkWn2mRfbyn9U9DEFtGURt1NTfoHumEoBQO+wDa7Y6CDg==",
    "id": "info.rizal.dragonskull",
    "kind": "web",
-   "name": "dragonskull-web-1.0.1.5.zip",
-   "sha256": "daf1cc0d6a70798182b49b8a306d64bfcada8e5d3ac510caf9979dbcdc732a61",
-   "size": 639543,
-   "version": "1.0.1.5",
-   "ed25519": "/Hjdvd4wK14OquaZVoS58/fcWq0D18yRM2I5rUJiH7o3mqeb9y1gsRnLGPp/Mle9fdYoKSQ4aaKKFKGyCaJuCA==",
+   "name": "dragonskull-web-1.0.4.26.zip",
+   "notes": "RDRAGON iOS web overlay 1.0.4.26 = built-in 1.0.4.25 + RBOARD Ghostroot Crypto Keyboard (rboard/*, ⌨ toggle in scout.html; Tagalog + Mayan fonts inlined in rboard/style.css because the overlay cannot carry .ttf). Web files only, no native code. Draft into #message, never auto-send.",
+   "sha256": "59f30aa63d6ee4cedd26d9b73a1913f15eb0fbcc0e5c101c405c2f8c3137d1d1",
+   "size": 94282,
+   "title": "DRAGON SKULL iOS web 1.0.4.26 · RBOARD keyboard in RDRAGON (offline) · signed e5833fdfbbfe (ЯCASKET Face ID)",
+   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.4.26.zip",
+   "version": "1.0.4.26",
    "platforms": [
     "ios"
    ],
    "keyId": "e5833fdfbbfe",
-   "signed": true,
-   "ghostSeq": 274,
-   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.1.5.zip",
-   "title": "DRAGON SKULL iOS web 1.0.1.5 · 1.0.1.4 + RDRAGON iOS ЯWALLET unified · signed e5833fdfbbfe (ЯCASKET Face ID, Ghost 274)"
+   "signed": true
   },
   "ios-web-history": [
+   {
+    "id": "info.rizal.dragonskull",
+    "kind": "web",
+    "name": "dragonskull-web-1.0.1.5.zip",
+    "sha256": "daf1cc0d6a70798182b49b8a306d64bfcada8e5d3ac510caf9979dbcdc732a61",
+    "size": 639543,
+    "version": "1.0.1.5",
+    "ed25519": "/Hjdvd4wK14OquaZVoS58/fcWq0D18yRM2I5rUJiH7o3mqeb9y1gsRnLGPp/Mle9fdYoKSQ4aaKKFKGyCaJuCA==",
+    "platforms": [
+     "ios"
+    ],
+    "keyId": "e5833fdfbbfe",
+    "signed": true,
+    "ghostSeq": 274,
+    "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.1.5.zip",
+    "title": "DRAGON SKULL iOS web 1.0.1.5 · 1.0.1.4 + RDRAGON iOS ЯWALLET unified · signed e5833fdfbbfe (ЯCASKET Face ID, Ghost 274)",
+    "supersededBy": "1.0.4.26"
+   },
    {
     "id": "info.rizal.dragonskull",
     "kind": "web",
@@ -146,6 +163,8 @@
   "1.0.1.2"
  ],
  "latest": {
-  "ios-web": "1.0.1.5"
- }
+  "ios-web": "1.0.4.26"
+ },
+ "signaturesPending": [],
+ "note": "UNSIGNED - current build only, no new egg offered; ed25519 added via RDRAGON/SIGNING-METHOD/sign.sh after GO + Face ID"
 }
