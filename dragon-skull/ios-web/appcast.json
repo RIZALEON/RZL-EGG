@@ -89,27 +89,47 @@
    "hosts": [
     "dragonskull"
    ]
+  },
+  {
+   "id": "info.rizal.dragonskull",
+   "kind": "web",
+   "name": "dragonskull-web-1.0.6.4.zip",
+   "platforms": [
+    "ios"
+   ],
+   "sha256": "f88e546e6e94688d1554d70e50b082ee2e83c15f0123164045792208ff74e003",
+   "size": 81570,
+   "title": "DRAGON SKULL iOS web 1.0.6.4 · RXCODE command (no button) + RBOARD swipe · signed e5833fdfbbfe (ЯCASKET Face ID)",
+   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.6.4.zip",
+   "version": "1.0.6.4",
+   "ed25519": "S7GArvRWgqjeUN+SIwTtgFREMIbO7i8VYOSAUKu47mfYjUlsOmxdtAoXdENH+yXvSwS6rLCvdEsqf4EZMMvkAg==",
+   "keyId": "e5833fdfbbfe",
+   "signed": true,
+   "notes": "RDRAGON iOS web overlay 1.0.6.4 = current live App/web (build 48 tree) + RXCODE as a chat command (type rxcode or /rxcode; composer/header button removed) + RBOARD swipe + ЯSCRIBE opener + wallet preview files so they are not rolled back. Web files only, no native code. signed. Published 2026-11-16.",
+   "hosts": [
+    "dragonskull"
+   ]
   }
  ],
  "mirrors": [
   "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/appcast.json",
   "https://rizaleon.github.io/RZL-EGG/dragon-skull/ios-web/appcast.json"
  ],
- "updated": "2026-11-15T21:23:18Z",
+ "updated": "2026-11-16T21:29:07Z",
  "itemsSigned": "shot-sense 2.1.9-s2 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID 2026-10-24) · RDRAGON 1.0.4 (8) IPA signed ed25519 e5833fdfbbfe Ghost 255 · ios-web 1.0.1.2 signed ed25519 e5833fdfbbfe Ghost 271 · ios-web 1.0.1.4 signed ed25519 e5833fdfbbfe Ghost 273 · ios-web 1.0.1.5 signed ed25519 e5833fdfbbfe Ghost 274 (ЯCASKET Face ID nonce 9374886f, 2026-10-27) · ios-web 1.0.4.26 signed ed25519 e5833fdfbbfe (ЯCASKET Face ID, 2026-11-09)",
  "keyId": "e5833fdfbbfe",
  "apps": {
   "ios-web": {
    "kind": "web",
    "id": "info.rizal.dragonskull",
-   "version": "1.0.6.3",
-   "name": "dragonskull-web-1.0.6.3.zip",
-   "size": 32846,
-   "sha256": "bcbef4909ccd35b6856196c537ae336c7c734ef19bb703da0aba925daeedcf82",
-   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.6.3.zip",
-   "ed25519": "X8InRFsqP60oZvd8RuPEhmw5kPPZCtO0/JQhEuYgu53KxGY5dl08DP+becS0N9Hw0aig5FwvNzSLQyJpGvd4DA==",
-   "notes": "RDRAGON iOS web overlay 1.0.6.3 = built-in 1.0.6.0 (build 47) + RBOARD swipe from staged 1.0.6.2 + rscribe-open-cmd (rcribe / Rscribe / open rscribe open in-app ЯSCRIBE in main chat and ThundR rOS). Web files only, no native code. signed. Published 2026-11-15.",
-   "title": "DRAGON SKULL iOS web 1.0.6.3 · ЯSCRIBE open-cmd + RBOARD swipe · signed e5833fdfbbfe (ЯCASKET Face ID)",
+   "version": "1.0.6.4",
+   "name": "dragonskull-web-1.0.6.4.zip",
+   "size": 81570,
+   "sha256": "f88e546e6e94688d1554d70e50b082ee2e83c15f0123164045792208ff74e003",
+   "url": "https://raw.githubusercontent.com/RIZALEON/RZL-EGG/main/dragon-skull/ios-web/dragonskull-web-1.0.6.4.zip",
+   "ed25519": "S7GArvRWgqjeUN+SIwTtgFREMIbO7i8VYOSAUKu47mfYjUlsOmxdtAoXdENH+yXvSwS6rLCvdEsqf4EZMMvkAg==",
+   "notes": "RDRAGON iOS web overlay 1.0.6.4 = current live App/web (build 48 tree) + RXCODE as a chat command (type rxcode or /rxcode; composer/header button removed) + RBOARD swipe + ЯSCRIBE opener + wallet preview files so they are not rolled back. Web files only, no native code. signed. Published 2026-11-16.",
+   "title": "DRAGON SKULL iOS web 1.0.6.4 · RXCODE command (no button) + RBOARD swipe · signed e5833fdfbbfe (ЯCASKET Face ID)",
    "platform": "ios",
    "keyId": "e5833fdfbbfe",
    "signed": true
